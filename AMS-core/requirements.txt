@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-jose
+passlib
+bcrypt
+pydantic
+motor
+beanie
+python-dotenv
+pydantic[email]
+apscheduler
+pandas
+python-multipart
